@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/icmoney.iml" filepath="$PROJECT_DIR$/.idea/modules/icmoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/icmoney.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/icmoney.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1202947081/icmoney.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1202947081/icmoney.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/351979758/icmoney.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/351979758/icmoney.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/204554961/icmoney.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/204554961/icmoney.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/971930880/icmoney.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/971930880/icmoney.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/167946131/icmoney.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/167946131/icmoney.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-751863698/icmoney.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-751863698/icmoney.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-398500393/icmoney.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-398500393/icmoney.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1334234799/icmoney.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1334234799/icmoney.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

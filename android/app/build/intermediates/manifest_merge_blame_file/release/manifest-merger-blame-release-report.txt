@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.icmoney"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:6:5-28:19
+14        android:name="com.icmoney.MainApplication"
+14-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:7:7-38
+15        android:allowBackup="false"
+15-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:11:7-34
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] /Users/arka/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:9:7-41
+18        android:label="@string/app_name"
+18-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:8:7-39
+19        android:largeHeap="true"
+19-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:13:7-31
+20        android:requestLegacyExternalStorage="true"
+20-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:14:7-50
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:10:7-52
+22        android:theme="@style/AppTheme"
+22-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:15:7-38
+23        android:usesCleartextTraffic="true" >
+23-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:12:7-42
+24        <activity
+24-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:16:7-26:18
+25            android:name="com.icmoney.MainActivity"
+25-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:17:9-37
+26            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+26-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:19:9-86
+27            android:label="@string/app_name"
+27-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:18:9-41
+28            android:launchMode="singleTask"
+28-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:20:9-40
+29            android:windowSoftInputMode="adjustResize" >
+29-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:21:9-51
+30            <intent-filter>
+30-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:22:9-25:25
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:23:13-65
+31-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:23:21-62
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:24:13-73
+33-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:24:23-70
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+36-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:27:7-84
+36-->/Applications/XAMPP/xamppfiles/htdocs/ircmoney/android/app/src/main/AndroidManifest.xml:27:17-81
+37    </application>
+38
+39</manifest>
